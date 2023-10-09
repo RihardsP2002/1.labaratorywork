@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">rihardspokulis1.lab</string>
+    <string name="click_me">Click me !</string>
+    <string name="lab_w">Lab.w.</string>
 </resources>
