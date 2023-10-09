@@ -2,4 +2,5 @@
     <string name="app_name">rihardspokulis1.lab</string>
     <string name="click_me">Click me !</string>
     <string name="lab_w">Lab.w.</string>
+    <string name="click_me_to_change_color">Click me to change color !</string>
 </resources>
